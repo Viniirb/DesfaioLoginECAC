@@ -23,7 +23,7 @@ Este projeto tem como objetivo realizar o login no sistema e-CAC (Centro Virtual
 
 Antes de executar o projeto, certifique-se de que possui os seguintes itens:
 
-- **.NET 6 ou superior** instalado. Você pode verificar a versão instalada com o seguinte comando:
+- **.NET 8** instalado. Você pode verificar a versão instalada com o seguinte comando:
   
   ```bash
   dotnet --version
