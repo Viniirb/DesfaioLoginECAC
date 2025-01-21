@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo realizar o login no sistema e-CAC (Centro Virtual de Atendimento ao Contribuinte) da Receita Federal utilizando o certificado digital do tipo A1. O login é feito por meio de um certificado digital (arquivo PFX) e a respectiva senha do usuário.
 
-## Ferramentas Utilizadas
+## Tecnologias Utilizadas
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
